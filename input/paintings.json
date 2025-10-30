@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "title": "The Scream",
+    "artist": "Edvard Munch",
+    "scenes_file": "scenes/01_the_scream.txt",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg",
+    "artwork_info": [
+      "절규",
+      "에드바르 뭉크(1863~1944)",
+      "1893, 캔버스에 유채, 템페라, 파스텔",
+      "91 X 73.5 cm",
+      "노르웨이 국립미술관"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Medusa",
+    "artist": "Caravaggio",
+    "scenes_file": "scenes/02_medusa.txt",
+    "url": "https://cdn.gallerix.asia/sr/C/438722921/5197.jpg",
+    "artwork_info": [
+      "메두사",
+      "미켈란젤로 메리시 다 카라바조(1571~1610)",
+      "1597, 캔버스에 유채",
+      "60 X 55 cm",
+      "우피치 미술관"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Saturn Devouring His Son",
+    "artist": "Francisco Goya",
+    "scenes_file": "scenes/03_saturn.txt",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Francisco_de_Goya%2C_Saturno_devorando_a_su_hijo_%281819-1823%29.jpg",
+    "artwork_info": [
+      "아들을 잡아먹는 사투르누스",
+      "프란시스코 고야(1746~1828)",
+      "1820~1823, 벽화 이전 캔버스",
+      "143.5 X 81.4 cm",
+      "프라도 미술관"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "The Starry Night",
+    "artist": "Vincent van Gogh",
+    "scenes_file": "scenes/04_starry_night.txt",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/2560px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+    "artwork_info": [
+      "별이 빛나는 밤",
+      "빈센트 반 고흐(1853~1890)",
+      "1889, 캔버스에 유채",
+      "73.7 X 92.1 cm",
+      "뉴욕 현대미술관"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Ophelia",
+    "artist": "John Everett Millais",
+    "scenes_file": "scenes/05_ophelia.txt",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg",
+    "artwork_info": [
+      "오필리아",
+      "존 에버렛 밀레이(1829~1896)",
+      "1851~1852, 캔버스에 유채",
+      "76.2 X 111.8 cm",
+      "테이트 브리튼"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "American Gothic",
+    "artist": "Grant Wood",
+    "scenes_file": "scenes/06_american_gothic.txt",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg",
+    "artwork_info": [
+      "아메리칸 고딕",
+      "그랜트 우드(1891~1942)",
+      "1930, 캔버스에 유채",
+      "78 X 65.3 cm",
+      "시카고 미술관"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "The Great Wave off Kanagawa",
+    "artist": "Katsushika Hokusai",
+    "scenes_file": "scenes/07_great_wave.txt",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Great_Wave_off_Kanagawa.jpg",
+    "artwork_info": [
+      "가나가와 해변의 높은 파도 아래",
+      "카츠시카 호쿠사이(1760~1849)",
+      "1831, 목판화",
+      "25.7 X 37.8 cm",
+      "메트로폴리탄 미술관"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Wanderer above the Sea of Fog",
+    "artist": "Caspar David Friedrich",
+    "scenes_file": "scenes/08_wanderer.txt",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg",
+    "artwork_info": [
+      "안개 바다 위의 방랑자",
+      "카스파르 다비트 프리드리히(1774~1840)",
+      "1818, 캔버스에 유채",
+      "94.8 X 74.8 cm",
+      "함부르크 미술관"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Ivan the Terrible and His Son",
+    "artist": "Ilya Repin",
+    "scenes_file": "scenes/09_ivan.txt",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/REPIN_Ivan_Terrible%26Ivan.jpg",
+    "artwork_info": [
+      "이반 뇌제와 그의 아들 이반",
+      "일리야 레핀(1844~1930)",
+      "1885, 캔버스에 유채",
+      "199.5 X 254 cm",
+      "트레티야코프 미술관"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "The Nightmare",
+    "artist": "Henry Fuseli",
+    "scenes_file": "scenes/10_nightmare.txt",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/John_Henry_Fuseli_-_The_Nightmare.JPG",
+    "artwork_info": [
+      "악몽",
+      "헨리 퓨즐리(1741~1825)",
+      "1781, 캔버스에 유채",
+      "101.6 X 127 cm",
+      "디트로이트 미술관"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "The Kiss",
+    "artist": "Gustav Klimt",
+    "scenes_file": "scenes/11_the_kiss.txt",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Gustav_Klimt_016.jpg",
+    "artwork_info": [
+      "키스",
+      "구스타프 클림트(1862~1918)",
+      "1907~1908, 캔버스에 유채와 금박",
+      "180 X 180 cm",
+      "벨베데레 궁전"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "The Death of Sardanapalus",
+    "artist": "Eugene Delacroix",
+    "scenes_file": "scenes/12_sardanapalus.txt",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Eug%C3%A8ne_Delacroix_-_La_Mort_de_Sardanapale.jpg",
+    "artwork_info": [
+      "사르다나팔로스의 죽음",
+      "외젠 들라크루아(1798~1863)",
+      "1827, 캔버스에 유채",
+      "392 X 496 cm",
+      "루브르 박물관"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Dante and Virgil in Hell",
+    "artist": "William-Adolphe Bouguereau",
+    "scenes_file": "scenes/13_dante_hell.txt",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/William-Adolphe_Bouguereau_%281825-1905%29_-_Dante_And_Virgil_In_Hell_%281850%29.jpg",
+    "artwork_info": [
+      "지옥의 단테와 베르길리우스",
+      "윌리엄 아돌프 부가로(1825~1905)",
+      "1850, 캔버스에 유채",
+      "280.5 X 225 cm",
+      "오르세 미술관"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "The Ghost of a Flea",
+    "artist": "William Blake",
+    "scenes_file": "scenes/14_ghost_flea.txt",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/William_Blake_-_The_Ghost_of_a_Flea_-_Google_Art_Project.jpg",
+    "artwork_info": [
+      "벼룩의 유령",
+      "윌리엄 블레이크(1757~1827)",
+      "1819~1820, 패널에 템페라와 금박",
+      "21.4 X 16.2 cm",
+      "테이트 브리튼"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Death and the Miser",
+    "artist": "Hieronymus Bosch",
+    "scenes_file": "scenes/15_death_miser.txt",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Jheronimus_Bosch_-_Death_and_the_Miser_-_Google_Art_Project.jpg",
+    "artwork_info": [
+      "죽음과 수전노",
+      "히에로니무스 보쉬(1450~1516)",
+      "1490~1510, 나무판에 유채",
+      "93 X 31 cm",
+      "내셔널 갤러리"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Lady Macbeth Sleepwalking",
+    "artist": "Johann Heinrich Fuseli",
+    "scenes_file": "scenes/16_lady_macbeth.txt",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Johann_Heinrich_F%C3%BCssli_053.jpg",
+    "artwork_info": [
+      "몽유병에 걸린 맥베스 부인",
+      "요한 하인리히 퓌슬리(1741~1825)",
+      "1783~1784, 캔버스에 유채",
+      "221 X 160 cm",
+      "루브르 박물관"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Judith Slaying Holofernes",
+    "artist": "Artemisia Gentileschi",
+    "scenes_file": "scenes/17_judith.txt",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Gentileschi_Artemisia_Judith_Beheading_Holofernes_Naples.jpg",
+    "artwork_info": [
+      "홀로페르네스의 목을 베는 유디트",
+      "아르테미시아 젠틸레스키(1593~1656)",
+      "1620, 캔버스에 유채",
+      "199 X 162.5 cm",
+      "우피치 미술관"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "The Raft of the Medusa",
+    "artist": "Theodore Gericault",
+    "scenes_file": "scenes/18_raft_medusa.txt",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg",
+    "artwork_info": [
+      "메두사호의 뗏목",
+      "테오도르 제리코(1791~1824)",
+      "1818~1819, 캔버스에 유채",
+      "491 X 716 cm",
+      "루브르 박물관"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "The Garden of Earthly Delights",
+    "artist": "Hieronymus Bosch",
+    "scenes_file": "scenes/19_garden_delights.txt",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/El_jard%C3%ADn_de_las_Delicias%2C_de_El_Bosco.jpg",
+    "artwork_info": [
+      "세속적 쾌락의 동산",
+      "히에로니무스 보쉬(1450~1516)",
+      "1490~1510, 나무판에 유채",
+      "220 X 389 cm",
+      "프라도 미술관"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "The Death of Marat",
+    "artist": "Jacques-Louis David",
+    "scenes_file": "scenes/20_death_marat.txt",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Death_of_Marat_by_David.jpg",
+    "artwork_info": [
+      "마라의 죽음",
+      "자크 루이 다비드(1748~1825)",
+      "1793, 캔버스에 유채",
+      "165 X 128 cm",
+      "벨기에 왕립미술관"
+    ]
+  }
+]

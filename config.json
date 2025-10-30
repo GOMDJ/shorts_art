@@ -1,0 +1,52 @@
+{
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "base_duration": 1.5,
+    "duration_per_char": 0.08
+  },
+  "image": {
+    "quality": 95,
+    "max_dimension": 2000,
+    "min_dimension": 400
+  },
+  "subtitle": {
+    "font": "fonts/NanumGothicBold.ttf",
+    "size": 80,
+    "color": "#FFFFFF",
+    "stroke_width": 3,
+    "stroke_color": "#000000",
+    "shadow_offset": [3, 3],
+    "shadow_color": "#000000",
+    "shadow_blur_radius": 5
+  },
+  "tts": {
+    "voice": "alloy",
+    "speed": 1.0
+  },
+  "audio": {
+    "enabled": true,
+    "hop_length": 512,
+    "onset_threshold": 0.5,
+    "beat_threshold": 0.3,
+    "min_scene_interval": 0.5,
+    "sync_strategy": "auto",
+    "comments": {
+      "sync_strategy": "auto|evenly|beats|onsets - 장면 배치 전략",
+      "min_scene_interval": "장면 전환 최소 간격 (초)",
+      "hop_length": "librosa hop_length 파라미터",
+      "onset_threshold": "강조 지점 감지 임계값",
+      "beat_threshold": "비트 감지 임계값"
+    }
+  },
+  "paths": {
+    "env_file": "~/.env.shorts",
+    "input_dir": "input",
+    "input_image_dir": "input/image",
+    "input_sounds_dir": "input/sounds",
+    "output_dir": "output",
+    "fonts_dir": "fonts",
+    "scenes_dir": "scenes"
+  }
+}

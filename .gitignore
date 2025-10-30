@@ -1,0 +1,112 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment Variables
+.env
+.env.local
+.env.shorts
+*.env
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Input/Output
+input/image/
+input/sounds/
+output/
+
+# Temporary Files
+temp/
+tmp/
+*.tmp
+temp-audio.m4a
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Media Files (optional - uncomment if you don't want to track media)
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+# *.mp4
+# *.mp3
+# *.wav
+# *.m4a
+
+# Project Specific
+coordinates.json
+final_scene.jpg
+zoomed/
+subtitled/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# pytype
+.pytype/
+
+# Fonts (선택적 - 폰트 파일을 포함하려면 주석 처리)
+# fonts/*.ttf
+# fonts/*.otf
