@@ -49,8 +49,8 @@ venv.bak/
 *.sqlite3
 
 # Input/Output
-input/image/
-input/sounds/
+input/*
+!input/paintings.json
 output/
 
 # Temporary Files
@@ -107,6 +107,5 @@ dmypy.json
 # pytype
 .pytype/
 
-# Fonts (선택적 - 폰트 파일을 포함하려면 주석 처리)
-# fonts/*.ttf
-# fonts/*.otf
+# Fonts
+fonts/
